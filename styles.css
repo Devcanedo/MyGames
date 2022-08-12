@@ -1,0 +1,22 @@
+/*
+body {
+ background-color: aqua;
+}*/
+
+header {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around; 
+ align-items: center;   
+}
+
+header h3 {
+ font-family: 'DynaPuff', cursive;
+ cursor: pointer;
+}
+
+/*
+font-family: 'DynaPuff', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
